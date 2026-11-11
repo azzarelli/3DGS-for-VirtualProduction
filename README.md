@@ -1,7 +1,7 @@
 # Relightable Gaussian Splatting for Virtual Production using Image-based Illumination
 (CC BYs 4.0 license)
 
-**[Project Page](https://azzarelli.github.io/relightingpage/index.html) | [Paper (arXiv)](https://arxiv.org/abs/2605.09024) | [Paper (ACM Digital Library)](TBD)**
+**[Project Page](https://azzarelli.github.io/relightingpage/index.html) | [Paper (arXiv)](https://arxiv.org/abs/2605.09024) | [Paper (ACM Digital Library) [TBD]](TBD)**
 
 
 ## SIGGRAPH Asia 2026 - Technical (Conference) Papers
