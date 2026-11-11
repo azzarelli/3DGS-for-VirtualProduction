@@ -89,5 +89,3 @@ Then open `pose_data/transforms.json` and replace the `transform_matrix` lists f
 Its important that `colmap_im_id` corresponds to `frame_XXX.jpg` as we want the last all cameras betwee XXX-`MAX_POSE` and XXX to correspond to the canonical frames for camXX, with the same order.
 
 *Note that during dataloading we load the transforms for the relighting cams by sampling indexs* `i for i in range(len(transformsJSON["frames"])) if i > (len(transformsJSON["frames"]) - N)`, where N is the number of relighting cameras (training and testing cameras)
-
-# 5. Final Notes
